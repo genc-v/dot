@@ -1,0 +1,135 @@
+;; Kanata Config: Homerow Mods + Vim Navigation + Mouse Layer
+;; Location: ~/.config/kanata/kanata.kbd
+
+;; ------------------------------------------------------
+;; KEYBINDING REFERENCE
+;; ------------------------------------------------------
+;;
+;; BASE LAYER:
+;;   Tap Actions:
+;;     Caps Lock -> Escape
+;;     Space     -> Space
+;;     A,S,D,F   -> a, s, d, f
+;;     J,K,L,;   -> j, k, l, ;
+;;     Q,W,E     -> q, w, e
+;;
+;;   Hold Actions (Homerow Mods):
+;;     Caps Lock -> Activate Navigation Layer
+;;     Space     -> Activate Mouse Layer
+;;     A / ;     -> Control
+;;     S / L     -> Shift
+;;     D / K     -> Meta (Windows/Cmd)
+;;     F / J     -> Alt
+;;
+;; NAVIGATION LAYER (Hold CapsLock):
+;;   H         -> Arrow Left
+;;   J         -> Arrow Down
+;;   K         -> Arrow Up
+;;   L         -> Arrow Right
+;;
+;; MOUSE LAYER (Hold Space):
+;;   Right Hand (Movement):
+;;     I         -> Move Mouse Up
+;;     J         -> Move Mouse Left
+;;     K         -> Move Mouse Down
+;;     L         -> Move Mouse Right
+;;
+;;   Left Hand (Clicks & Scroll & Nav):
+;;     F         -> Left Click   (Primary)
+;;     A         -> Right Click  (Secondary)
+;;     W         -> Middle Click (Wheel Click)
+;;     Q         -> Mouse Back   (Browser Back)
+;;     E         -> Mouse Forward(Browser Forward)
+;;     S         -> Scroll Down
+;;     D         -> Scroll Up
+;; ------------------------------------------------------
+
+(defcfg
+  process-unmapped-keys yes
+)
+
+(defsrc
+  ;; Added 'q' and 'e' to the list
+  q w e caps a   s   d   f   h   j   k   l   ;   u   i   o   spc
+)
+
+(defvar
+  tap-time 200
+  hold-time 200
+  
+  ;; MOUSE SPEED
+  ms_slow 2
+  ms_fast 15
+  ms_interval 10
+
+  ;; SCROLL SPEED
+  mw_dist 50
+  mw_int  50
+)
+
+(defalias
+  ;; -----------------
+  ;; KEY DEFINITIONS
+  ;; -----------------
+
+  ;; CAPSLOCK: Tap = Esc, Hold = Navigation Layer
+  esc_nav (tap-hold $tap-time $hold-time esc (layer-while-held navigation))
+
+  ;; SPACE: Tap = Space, Hold = Mouse Layer
+  spc_mouse (tap-hold $tap-time $hold-time spc (layer-while-held mouse))
+
+  ;; Left Hand Modifiers
+  ctl_a (tap-hold $tap-time $hold-time a lctl)
+  sft_s (tap-hold $tap-time $hold-time s lsft)
+  win_d (tap-hold $tap-time $hold-time d lmet)
+  alt_f (tap-hold $tap-time $hold-time f lalt)
+
+  ;; Right Hand Modifiers
+  alt_j (tap-hold $tap-time $hold-time j ralt)
+  win_k (tap-hold $tap-time $hold-time k rmet)
+  sft_l (tap-hold $tap-time $hold-time l rsft)
+  ctl_; (tap-hold $tap-time $hold-time ; rctl)
+
+  ;; -----------------
+  ;; MOUSE ACTIONS
+  ;; -----------------
+  
+  ;; Movement (Right Hand: IJKL)
+  mm_u (movemouse-up $ms_fast $ms_interval)
+  mm_d (movemouse-down $ms_fast $ms_interval)
+  mm_l (movemouse-left $ms_fast $ms_interval)
+  mm_r (movemouse-right $ms_fast $ms_interval)
+
+  ;; Scrolling (Left Hand: S and D)
+  mw_u (mwheel-up    $mw_dist $mw_int)
+  mw_d (mwheel-down  $mw_dist $mw_int)
+
+  ;; Clicks (Left Hand: A, F, W)
+  m_lclk mlft  ;; Left Click
+  m_rclk mrgt  ;; Right Click
+  m_mclk mmid  ;; Middle Click
+  
+  ;; Navigation (Left Hand: Q, E)
+  m_bck mbck   ;; Mouse Back
+  m_fwd mfwd   ;; Mouse Forward
+)
+
+;; -----------------
+;; LAYERS
+;; -----------------
+
+(deflayer base
+  ;; Q   W   E   Caps      A       S       D       F       H    J       K       L       ;       U   I   O   Space
+  q      w   e   @esc_nav  @ctl_a  @sft_s  @win_d  @alt_f  h    @alt_j  @win_k  @sft_l  @ctl_;  u   i   o   @spc_mouse
+)
+
+(deflayer navigation
+  ;; Q   W   E   Caps      A       S       D       F       H    J       K       L       ;       U   I   O   Space
+  _      _   _   _         _       _       _       _       lft  down    up      rght    _       _   _   _   _
+)
+
+(deflayer mouse
+  ;; Q      W        E      Caps      A         S       D       F         H    J       K       L       ;       U   I      O   Space
+  ;; Back   MidClk   Fwd              R-Click   Scr-Dn  Scr-Up  L-Click        Move L  Move D  Move R          -   Move U -
+  @m_bck    @m_mclk  @m_fwd _         @m_rclk   @mw_d   @mw_u   @m_lclk   _    @mm_l   @mm_d   @mm_r   _       _   @mm_u  _   _
+)
