@@ -1,0 +1,1415 @@
+{
+  "profiles": {
+    "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|": {
+      "monitors": {
+        "eDP-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 120.21,
+          "x": 5760,
+          "y": -1080,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": true
+        },
+        "HDMI-A-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 71.91,
+          "x": 4777,
+          "y": -2160,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": false,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": false
+        },
+        "DP-2": {
+          "resolution": "1920x1080",
+          "refresh_rate": 60.0,
+          "x": 6697,
+          "y": -2160,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": false,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": false
+        }
+      },
+      "saved_at": "2026-03-16T09:25:54.634007",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        }
+      ]
+    },
+    "DP-7|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-2|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|": {
+      "monitors": {
+        "eDP-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 120.21,
+          "x": 2088,
+          "y": -1080,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": true
+        },
+        "DP-7": {
+          "resolution": "1920x1080",
+          "refresh_rate": 60.0,
+          "x": 2960,
+          "y": -2160,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": false,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": false
+        },
+        "HDMI-A-2": {
+          "resolution": "1920x1080",
+          "refresh_rate": 60.0,
+          "x": 1040,
+          "y": -2160,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": false,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": false
+        }
+      },
+      "saved_at": "2026-01-29T09:20:11.890326",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-7",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        }
+      ]
+    },
+    "HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188": {
+      "monitors": {
+        "HDMI-A-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 59.94,
+          "x": -970,
+          "y": -1080,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "saved_at": "2026-01-01T11:40:55.407081",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        }
+      ]
+    },
+    "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|": {
+      "monitors": {
+        "eDP-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 120.21,
+          "x": 3200,
+          "y": 0,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": false,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": true
+        },
+        "HDMI-A-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 200.0,
+          "x": 1280,
+          "y": 0,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": true
+        }
+      },
+      "saved_at": "2026-02-22T17:26:25.987288",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ]
+    },
+    "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147": {
+      "monitors": {
+        "HDMI-A-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 200.0,
+          "x": -970,
+          "y": -1080,
+          "scale": 1.2,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": false
+        }
+      },
+      "saved_at": "2026-01-09T23:49:56.782069",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ]
+    },
+    "HDMI-A-2|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|": {
+      "monitors": {
+        "eDP-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 120.21,
+          "x": 4881,
+          "y": 1080,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": false,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": true
+        },
+        "HDMI-A-2": {
+          "resolution": "1920x1080",
+          "refresh_rate": 200.0,
+          "x": 2961,
+          "y": 1080,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": false
+        }
+      },
+      "saved_at": "2026-02-01T19:16:49.882075",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ]
+    },
+    "HDMI-A-1;;eDP-1|AU Optronics|0xD1ED|": {
+      "monitors": {
+        "eDP-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 120.21,
+          "x": -896,
+          "y": -156,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": false,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": true
+        },
+        "HDMI-A-1": {
+          "resolution": "1024x768",
+          "refresh_rate": 60.0,
+          "x": -1920,
+          "y": 0,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1024,
+          "height": 768,
+          "hdr": false,
+          "vrr": false
+        }
+      },
+      "saved_at": "2026-02-12T21:14:41.376132",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "",
+          "model": "",
+          "serial": ""
+        }
+      ]
+    },
+    "eDP-1|AU Optronics|0xD1ED|": {
+      "monitors": {
+        "eDP-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 120.21,
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": true
+        }
+      },
+      "saved_at": "2026-02-22T15:52:15.403577",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ]
+    },
+    "DP-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|": {
+      "monitors": {
+        "eDP-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 120.21,
+          "x": 5760,
+          "y": -1080,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": false,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": true
+        },
+        "DP-1": {
+          "resolution": "1920x1080",
+          "refresh_rate": 200.0,
+          "x": 5760,
+          "y": 0,
+          "scale": 1.0,
+          "transform": 0,
+          "disabled": false,
+          "focused": true,
+          "width": 1920,
+          "height": 1080,
+          "hdr": false,
+          "vrr": false
+        }
+      },
+      "saved_at": "2026-03-15T23:03:45.979860",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ]
+    }
+  },
+  "history": [
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        }
+      ],
+      "saved_at": "2026-03-16T09:25:54.634007"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        }
+      ],
+      "saved_at": "2026-03-16T09:25:48.904080"
+    },
+    {
+      "fingerprint": "DP-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-03-15T23:03:45.979860"
+    },
+    {
+      "fingerprint": "DP-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-03-15T23:03:19.904244"
+    },
+    {
+      "fingerprint": "DP-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-03-15T23:03:02.078028"
+    },
+    {
+      "fingerprint": "DP-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-03-15T23:02:37.237045"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        }
+      ],
+      "saved_at": "2026-03-09T09:21:19.931241"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        }
+      ],
+      "saved_at": "2026-03-09T09:19:50.886706"
+    },
+    {
+      "fingerprint": "DP-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-28T19:45:11.463285"
+    },
+    {
+      "fingerprint": "DP-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-28T19:44:57.945003"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-22T17:26:25.987288"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-22T17:26:15.019799"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-22T17:25:58.402417"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-22T17:13:58.635505"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-22T17:13:21.556416"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-22T17:13:08.008676"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-22T15:55:14.554029"
+    },
+    {
+      "fingerprint": "eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-22T15:52:15.403577"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-22T15:41:03.591437"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-22T15:40:46.364895"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-20T21:31:21.718956"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-20T21:31:10.352121"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-18T09:14:52.591199"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-16T21:32:49.095250"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        }
+      ],
+      "saved_at": "2026-02-16T09:20:53.763504"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-13T19:32:37.868152"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-13T19:32:12.796115"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-13T09:07:28.311055"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-13T09:07:14.446816"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-13T09:07:08.539118"
+    },
+    {
+      "fingerprint": "HDMI-A-1;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "",
+          "model": "",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-12T21:14:41.376132"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-09T12:41:04.186793"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-09T12:40:59.382365"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-09T12:40:38.572349"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        }
+      ],
+      "saved_at": "2026-02-09T10:29:22.566777"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        }
+      ],
+      "saved_at": "2026-02-09T10:28:58.062902"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-09T09:33:07.892446"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-09T09:33:01.284953"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-07T18:58:58.486261"
+    },
+    {
+      "fingerprint": "HDMI-A-1|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "HDMI-A-1",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-07T18:58:51.635006"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-02T09:10:16.172116"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-02T09:10:04.830316"
+    },
+    {
+      "fingerprint": "DP-2|Samsung Electric Company|C27F390|H4ZR200137;;HDMI-A-1|Samsung Electric Company|C27F390|H4ZR200188;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "DP-2",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200137"
+        },
+        {
+          "name": "HDMI-A-1",
+          "make": "Samsung Electric Company",
+          "model": "C27F390",
+          "serial": "H4ZR200188"
+        },
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        }
+      ],
+      "saved_at": "2026-02-02T09:09:52.312930"
+    },
+    {
+      "fingerprint": "HDMI-A-2|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-01T19:16:49.882075"
+    },
+    {
+      "fingerprint": "HDMI-A-2|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-01T19:16:45.341120"
+    },
+    {
+      "fingerprint": "HDMI-A-2|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-01T19:15:32.202048"
+    },
+    {
+      "fingerprint": "HDMI-A-2|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-01T19:13:58.893591"
+    },
+    {
+      "fingerprint": "HDMI-A-2|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-01T19:13:51.523435"
+    },
+    {
+      "fingerprint": "HDMI-A-2|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-01T19:13:46.672384"
+    },
+    {
+      "fingerprint": "HDMI-A-2|GIGA-BYTE TECHNOLOGY CO., LTD.|GS25F2|25225B001147;;eDP-1|AU Optronics|0xD1ED|",
+      "monitors_info": [
+        {
+          "name": "eDP-1",
+          "make": "AU Optronics",
+          "model": "0xD1ED",
+          "serial": ""
+        },
+        {
+          "name": "HDMI-A-2",
+          "make": "GIGA-BYTE TECHNOLOGY CO., LTD.",
+          "model": "GS25F2",
+          "serial": "25225B001147"
+        }
+      ],
+      "saved_at": "2026-02-01T19:13:11.941206"
+    }
+  ]
+}
