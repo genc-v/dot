@@ -2,6 +2,7 @@ neovim
 tmux
 fish
 zoxide
+claude
 lazydocker
 lazygit
 fzf
