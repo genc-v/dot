@@ -44,6 +44,9 @@ link_config "$DOTFILES_DIR/tmux/.tmux.conf" "$HOME/.tmux.conf"
 echo "==> Setting up Fish"
 link_config "$DOTFILES_DIR/fish" "$CONFIG_DIR/fish"
 
+echo "==> Setting up Bash"
+link_config "$DOTFILES_DIR/bash/.bashrc" "$HOME/.bashrc"
+
 echo "==> Setting up Hyprland"
 link_config "$DOTFILES_DIR/hypr" "$CONFIG_DIR/hypr"
 
