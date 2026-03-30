@@ -1,4 +1,28 @@
 return {
+  -- Telescope: show hidden files (like .env) and project extension
+  {
+    "nvim-telescope/telescope.nvim",
+    dependencies = {
+      "nvim-telescope/telescope-project.nvim",
+    },
+    keys = {
+      { "<leader>fp", "<cmd>Telescope project<CR>", desc = "Projects" },
+    },
+    opts = {
+      defaults = {
+        file_ignore_patterns = { "%.git/" },
+      },
+      pickers = {
+        find_files = {
+          hidden = true,
+        },
+      },
+    },
+    config = function(_, opts)
+      require("telescope").setup(opts)
+      require("telescope").load_extension("project")
+    end,
+  },
   -- Auto-save plugin
   {
     "okuuva/auto-save.nvim",
@@ -37,19 +61,6 @@ return {
     config = function(_, opts)
       require("telescope").setup(opts)
       require("telescope").load_extension("undo")
-    end,
-  },
-  -- Add this for projects
-  {
-    "nvim-telescope/telescope.nvim",
-    dependencies = {
-      "nvim-telescope/telescope-project.nvim",
-    },
-    keys = {
-      { "<leader>fp", "<cmd>Telescope project<CR>", desc = "Projects" },
-    },
-    config = function()
-      require("telescope").load_extension("project")
     end,
   },
   {
