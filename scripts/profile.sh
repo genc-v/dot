@@ -1,1 +1,1 @@
-export USER_PROFILE="setup"
+export USER_PROFILE="init"
